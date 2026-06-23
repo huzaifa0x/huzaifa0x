@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=MOHD%20HUZAIFA&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Red%20Team%20Operator%20•%20Bug%20Bounty%20Hunter%20•%20Offensive%20Security&descAlignY=58" />
+<img src="banner.png" width="100%" />
 
 <br>
 
