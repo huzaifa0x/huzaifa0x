@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohd Huzaifa
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=MOHD%20HUZAIFA&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Red%20Team%20Operator%20•%20Bug%20Bounty%20Hunter%20•%20Offensive%20Security&descAlignY=58" />
 
-### 🔴 Red Team Operator • 🐞 Bug Bounty Hunter • 🛡️ Offensive Security Researcher
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Web+Application+Security;Cloud+Security;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=FF2D55&center=true&vCenter=true&width=900&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Cloud+Security;Web+Application+Security;Always+Learning+Something+New..." />
 
 </div>
 
