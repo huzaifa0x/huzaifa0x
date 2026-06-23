@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/huzaifa0x/assets/main/assets/banner.png.png" width="100%" alt="Cyber Banner"/>
+<img src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/main/assets/banner.png.png" width="100%" alt="Cyber Banner"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=FF2D55&center=true&vCenter=true&width=950&lines=🔴+Red+Team+Operator;🐞+Bug+Bounty+Hunter;🛡️+Offensive+Security+Researcher;🤖+AI+Security+Automation;☁️+Cloud+Security;🌐+Web+Application+Security;⚡+Always+Learning+Something+New..." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=950&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Cloud+Security;Web+Application+Security;Always+Learning..." alt="Typing SVG"/>
 
 <br><br>
 
@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/STATUS-Always%20Learning-black?style=flat-square"/>
 
 </div>
+
+---
 
 ---
 
