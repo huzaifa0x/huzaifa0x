@@ -42,136 +42,51 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZED;OPERATOR+PROFILE;RED+TEAM+MODE+ENABLED"/>
-
-</div>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td width="49%" valign="top">
-
-## 🔴 OPERATOR PROFILE
-
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-👤 Identity
-
-Name   : Mohd Huzaifa
-Alias  : huzaifa0x
-Role   : Red Team Operator
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎯 Expertise
-
-• Bug Bounty Hunting
-• Web Application Security
-• API Security
-• Cloud Security
-• AI Security
-• Active Directory
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-💻 Environment
-
-OS
-• Kali Linux
-• Windows
-
-Languages
-• Python
-• Go
-• Bash
-• JavaScript
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Status
-
-🟢 ONLINE
-
-Always Learning...
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</td>
-
-<td width="2%"></td>
-
-<td width="49%" valign="top">
-
-## ⚡ LIVE TERMINAL
-
-```console
-root@huzaifa0x:~$ whoami
-
-Mohd Huzaifa
-
-━━━━━━━━━━━━━━━━━━━━
-
-root@huzaifa0x:~$ role
-
-Red Team Operator
-
-━━━━━━━━━━━━━━━━━━━━
-
-root@huzaifa0x:~$ mission
-
-✔ Advanced Recon
-✔ Bug Bounty
-✔ Web Security
-✔ API Security
-✔ Cloud Security
-✔ AI Security
-
-━━━━━━━━━━━━━━━━━━━━
-
-root@huzaifa0x:~$ tools
-
-Burp Suite
-Nuclei
-Httpx
-Katana
-Subfinder
-Dalfox
-ffuf
-SQLMap
-
-━━━━━━━━━━━━━━━━━━━━
-
-root@huzaifa0x:~$ access
-
-ACCESS GRANTED
-
-━━━━━━━━━━━━━━━━━━━━
-
-root@huzaifa0x:~$ status
-
-🟢 ONLINE
-
-Always Learning...
-```
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
+# 🔴 OPERATOR DASHBOARD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0A0000,50:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=22&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=3000&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;ACCESS+GRANTED;RED+TEAM+OPERATOR;MISSION+READY"/>
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                              🔴 OPERATOR PROFILE                             │
+├───────────────────────────────┬──────────────────────────────────────────────┤
+│ 👤 Identity                   │ 💻 Live Terminal                             │
+│                               │                                              │
+│ Name   : Mohd Huzaifa         │ root@huzaifa0x:~$ whoami                    │
+│ Alias  : huzaifa0x            │ Mohd Huzaifa                                │
+│ Role   : Red Team Operator    │                                              │
+│                               │ root@huzaifa0x:~$ mission                   │
+│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│ ✔ Advanced Recon                            │
+│                               │ ✔ Bug Bounty Hunting                        │
+│ 🎯 Specialization             │ ✔ Web Security                              │
+│ • Bug Bounty Hunting          │ ✔ API Security                              │
+│ • Web Security                │ ✔ Cloud Security                            │
+│ • API Security                │ ✔ AI Security                               │
+│ • Cloud Security              │                                              │
+│ • AI Security                 │ root@huzaifa0x:~$ tools                     │
+│ • Active Directory            │ Burp Suite                                 │
+│                               │ Nuclei                                     │
+│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│ Httpx                                      │
+│                               │ Katana                                     │
+│ 💻 Environment                │ Dalfox                                     │
+│ • Kali Linux                  │ ffuf                                       │
+│ • Windows                     │ SQLMap                                     │
+│                               │                                            │
+│━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━│ root@huzaifa0x:~$ status                    │
+│                               │                                            │
+│ 🟢 Status                     │ ACCESS : GRANTED                           │
+│ ONLINE                        │ 🟢 ONLINE                                  │
+│ Always Learning...            │ Ready For Next Target...                   │
+└───────────────────────────────┴──────────────────────────────────────────────┘
+````
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0A0000,50:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=24&animation=blinking"/>
 
 </div>
 
