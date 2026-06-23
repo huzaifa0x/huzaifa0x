@@ -242,13 +242,14 @@
 
 # 🚀 FEATURED PROJECTS
 
-| 🚀 Repository      | Description                 |
-| ------------------ | --------------------------- |
-| 🔍 ReconX          | Advanced Recon Framework    |
-| 🌐 API-Hunter      | API Discovery Toolkit       |
-| ⚔️ RedTeam Toolkit | Offensive Security Scripts  |
-| ☁️ CloudEnum       | Cloud Enumeration Framework |
-| 🤖 AI-Sec          | AI Security Research        |
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/main/assets/featured-projects.png"
+alt="Featured Projects"
+width="100%"/>
+
+</div>
 
 ---
 
