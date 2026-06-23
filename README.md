@@ -35,6 +35,16 @@
 
 ---
 
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=huzaifa0x&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 # ⚡ Current Focus
 
 - Advanced Recon Automation
