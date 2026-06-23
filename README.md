@@ -36,35 +36,89 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0000,30:550000,60:FF0000,100:220000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=32&animation=fadeIn"/>
+# 🔴 OPERATOR STATUS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=RED+TEAM+MODE+ENABLED;BUG+BOUNTY+HUNTING;OFFENSIVE+SECURITY+RESEARCH;TARGET:+AUTHORIZED"/>
 
 </div>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔴 OPERATOR PROFILE
+<br>
 
 ```text
-╭──────────────────────────────╮
-│  👤 Mohd Huzaifa             │
-│  🎯 huzaifa0x                │
-│                              │
-│  🔴 Red Team Operator        │
-│  🐞 Bug Bounty Hunter        │
-│  🛡 Offensive Security       │
-│  🤖 AI Security             │
-│  ☁ Cloud Security           │
-│  🌐 API Security            │
-│                              │
-│  OS : Kali Linux            │
-│  LANG : Python • Go • Bash  │
-│                              │
-│  STATUS : 🟢 ONLINE         │
-╰──────────────────────────────╯
+┌────────────────────────────────────────────────────────────┐
+│                      OPERATOR PROFILE                      │
+├────────────────────────────────────────────────────────────┤
+│ 👤 Name        : Mohd Huzaifa                              │
+│ 🎯 Alias       : huzaifa0x                                │
+│ 🔴 Role        : Red Team Operator                        │
+│ 🟢 Status      : Online                                   │
+│ 💻 OS          : Kali Linux • Windows                     │
+│ 🐍 Languages   : Python • Go • Bash • JavaScript          │
+└────────────────────────────────────────────────────────────┘
 ```
+
+<br>
+
+## 🎯 CURRENT MISSION
+
+```text
+✔ Advanced Recon Automation
+✔ Web Application Security
+✔ API Security Assessment
+✔ Cloud Security
+✔ AI Security Research
+✔ Active Directory
+✔ Offensive Security Automation
+```
+
+<br>
+
+## 🛠️ SECURITY ARSENAL
+
+```text
+Burp Suite
+Nuclei
+Httpx
+Katana
+Subfinder
+Dalfox
+ffuf
+SQLMap
+Docker
+Kali Linux
+```
+
+<br>
+
+## ⚡ LIVE TERMINAL
+
+```console
+root@huzaifa0x:~$ whoami
+Mohd Huzaifa
+
+root@huzaifa0x:~$ role
+Red Team Operator
+
+root@huzaifa0x:~$ access
+ACCESS GRANTED
+
+root@huzaifa0x:~$ mode
+OFFENSIVE SECURITY
+
+root@huzaifa0x:~$ status
+🟢 ONLINE
+Always Learning...
+```
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:100000,50:FF0000,100:100000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=24&animation=fadeIn"/>
+
+</div>
+
+---
+````
+
 
 </td>
 
