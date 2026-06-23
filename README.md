@@ -42,84 +42,112 @@
 
 ---
 
-<table>
+<div align="center">
+
+<table width="85%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-## 👨‍💻 WHOAMI
+## 🔴 WHOAMI
 
 ```yaml
-Name: Mohd Huzaifa
-Alias: huzaifa0x
-Role: Red Team Operator
+Name:
+  Mohd Huzaifa
 
-Specialization:
-  - Bug Bounty Hunting
-  - Web Application Security
-  - API Security
-  - Active Directory
-  - Cloud Security
-  - AI Security
+Alias:
+  huzaifa0x
 
-Operating Systems:
-  - Kali Linux
-  - Windows
+Role:
+  Red Team Operator
 
-Languages:
-  - Python
-  - Bash
-  - Go
-  - JavaScript
+━━━━━━━━━━━━━━━━━━━━
 
-Current Status:
-  Learning.
-  Building.
-  Breaking.
-  Securing.
-```
+Focus
 
-</td>
+• Bug Bounty
+• Web Security
+• API Security
+• Cloud Security
+• AI Security
 
-<td width="50%" valign="top">
+━━━━━━━━━━━━━━━━━━━━
 
-## 💻 TERMINAL
+Environment
 
-```bash
-root@huzaifa0x:~$ whoami
+OS
+• Kali Linux
+• Windows
 
-Mohd Huzaifa
+Languages
+• Python
+• Go
+• Bash
+• JavaScript
 
-root@huzaifa0x:~$ role
+━━━━━━━━━━━━━━━━━━━━
 
-Red Team Operator
+Status
 
-root@huzaifa0x:~$ current_focus
-
-✔ Advanced Recon Automation
-✔ Web Security
-✔ API Security
-✔ Cloud Security
-✔ AI Security
-
-root@huzaifa0x:~$ favorite_tools
-
-Burp Suite
-Nuclei
-Httpx
-Subfinder
-Katana
-Dalfox
-
-root@huzaifa0x:~$ status
+🟢 Online
 
 Always Learning...
 ```
 
 </td>
 
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+## 💻 TERMINAL
+
+```console
+root@huzaifa0x:~$ whoami
+
+Mohd Huzaifa
+
+────────────────────
+
+root@huzaifa0x:~$ role
+
+Red Team Operator
+
+────────────────────
+
+root@huzaifa0x:~$ mission
+
+✔ Advanced Recon
+✔ Web Security
+✔ API Security
+✔ Cloud Security
+
+────────────────────
+
+root@huzaifa0x:~$ tools
+
+Burp Suite
+Nuclei
+Katana
+Httpx
+Dalfox
+ffuf
+
+────────────────────
+
+root@huzaifa0x:~$ status
+
+ACCESS : GRANTED
+
+🟢 ONLINE
+```
+
+</td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
