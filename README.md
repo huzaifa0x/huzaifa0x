@@ -52,66 +52,31 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Passionate+About+Cyber+Security;Breaking+Things+To+Make+Them+Secure;Building+Automation+For+Security;Always+Learning+%7C+Always+Improving"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2500&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Offensive+Security+Engineer;Bug+Bounty+Hunter;AI+Security+Researcher;Always+Learning+Always+Building"/>
 
-</div>
-
-<br>
-
-```bash
-root@huzaifa0x:~$ cat about_me.txt
-
-[🔴] Red Team Operator
-     Offensive mindset. Breaching barriers.
-
-[🐞] Bug Bounty Hunter
-     Finding vulnerabilities. Earning trust.
-
-[🛡️] Offensive Security Researcher
-     Researching threats. Building defenses.
-
-[🤖] AI Security Automation
-     Automating security workflows.
-
-[🌐] Web Application Security
-     Testing modern web applications.
-
-[🔗] API Security
-     REST • GraphQL • OAuth • JWT
-
-[☁️] Cloud Security
-     AWS • Azure • Containers
-
-[🧠] Active Directory
-     Windows Enterprise Security
-
-[🐧] Linux Enthusiast
-     Kali Linux • Bash • Automation
-
-[❤️] Open Source Contributor
-     Learning • Building • Sharing
-
-root@huzaifa0x:~$ status
-
-🟢 ONLINE
-MISSION READY
-```
-
-<br>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/🔴_RED_TEAM-OPERATOR-FF0000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/🐞_BUG_BOUNTY-HUNTER-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛡️_OFFENSIVE_SECURITY-RESEARCHER-FF0000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/🛡️_WEB-SECURITY-FF0000?style=for-the-badge"/>
+<br>
 
+<img src="https://img.shields.io/badge/🌐_WEB_APPLICATION-SECURITY-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔗_API-SECURITY-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☁️_CLOUD-SECURITY-111111?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/🧠_ACTIVE_DIRECTORY-SECURITY-FF0000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🤖_AI-SECURITY-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐧_KALI_LINUX-POWER_USER-FF0000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/☁️_CLOUD-SECURITY-FF0000?style=for-the-badge"/>
+<br><br>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0A0000,50:FF0000,100:0A0000&text=MISSION%20READY&fontColor=FFFFFF&fontSize=22"/>
+
+</div>
 
 ---
 
