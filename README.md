@@ -160,26 +160,61 @@
 
 </div>
 
----
-
-# 🌐 SECURITY DOMAINS
+```
 
 <div align="center">
 
-```text
-┌──────────────────────┐ ┌──────────────────────┐ ┌──────────────────────┐ ┌──────────────────────┐
-│ 🔴 OFFENSIVE         │ │ 🌐 APPLICATION       │ │ ☁️ CLOUD             │ │ 🤖 AI               │
-├──────────────────────┤ ├──────────────────────┤ ├──────────────────────┤ ├──────────────────────┤
-│ • Red Team           │ │ • Web Security       │ │ • AWS               │ │ • AI Security       │
-│ • Bug Bounty         │ │ • API Security       │ │ • Azure             │ │ • LLM Security      │
-│ • OSINT              │ │ • Authentication     │ │ • IAM               │ │ • AI Agents         │
-│ • Active Directory   │ │ • GraphQL            │ │ • Kubernetes        │ │ • AI Research       │
-└──────────────────────┘ └──────────────────────┘ └──────────────────────┘ └──────────────────────┘
-```
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+<b>🔴 OFFENSIVE</b>
+
+• Red Team  
+• Bug Bounty  
+• OSINT  
+• Active Directory
+
+</td>
+
+<td width="25%" valign="top">
+
+<b>🌐 APPLICATION</b>
+
+• Web Security  
+• API Security  
+• Authentication  
+• GraphQL
+
+</td>
+
+<td width="25%" valign="top">
+
+<b>☁️ CLOUD</b>
+
+• AWS  
+• Azure  
+• IAM  
+• Kubernetes
+
+</td>
+
+<td width="25%" valign="top">
+
+<b>🤖 AI</b>
+
+• AI Security  
+• LLM Security  
+• AI Agents  
+• AI Research
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+```
 
 # 💻 PROGRAMMING
 
