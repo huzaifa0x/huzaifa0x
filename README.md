@@ -192,12 +192,45 @@ Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox �
 
 ---
 
-# 📫 Connect
+# 🌐 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/huzaifa0x)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohd-huzaifa-519a262a4)
+<a href="https://github.com/huzaifa0x">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/mohdhuzaifa0786)
+<a href="mailto:mohdhuzaifah0786@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mohdhuzaifah0786@gmail.com)
+<a href="https://www.linkedin.com/in/mohd-huzaifa-519a262a4">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/mohdhuzaifa0786">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
+
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔍 ReconX | Automated Recon Framework |
+| 🌐 API-Hunter | API Enumeration Toolkit |
+| ⚔️ RedTeam Toolkit | Offensive Security Scripts |
+| ☁️ CloudEnum | Cloud Recon Automation |
+| 🧠 AI-Sec | AI Security Research |
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=huzaifa0x&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
+
+</p>
