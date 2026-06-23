@@ -138,19 +138,32 @@ Always Learning...
 
 ---
 
-# 📊 GitHub Analytics
+
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_radius=12&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&theme=radical&hide_border=true&bg_color=000000"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_radius=12"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa0x&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa0x&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa0x&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa0x&theme=github_dark"/>
 
 </div>
 
@@ -160,15 +173,16 @@ Always Learning...
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=huzaifa0x&theme=radical&hide_border=true&background=000000"/>
+<img src="https://streak-stats.demolab.com?user=huzaifa0x&theme=radical&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa0x&theme=github-dark&hide_border=true&bg_color=000000&color=ff3333&line=ff0000&point=ffffff"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa0x&theme=github-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=330000&title_color=FF0000"/>
 
 </div>
 
 ---
+
 
 # 🎯 CURRENT MISSION
 
