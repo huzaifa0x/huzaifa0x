@@ -10,6 +10,69 @@
 
 ---
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+# 👨‍💻 WHOAMI
+
+```yaml
+Name: Mohd Huzaifa
+Alias: huzaifa0x
+Role: Red Team Operator
+
+Specialization:
+  - Bug Bounty Hunting
+  - Web Security
+  - API Security
+  - Active Directory
+  - Cloud Security
+  - AI Security
+
+OS:
+  - Kali Linux
+  - Windows
+
+Current Status:
+  Learning. Building. Breaking. Securing.
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+# 💻 TERMINAL
+
+```bash
+root@huzaifa0x:~$ whoami
+
+Mohd Huzaifa
+
+root@huzaifa0x:~$ role
+
+Red Team Operator
+
+root@huzaifa0x:~$ current_focus
+
+✔ Advanced Recon
+✔ Web Security
+✔ API Security
+✔ AI Security
+✔ Cloud Security
+
+root@huzaifa0x:~$ status
+
+Always Learning...
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
 # 🚀 About Me
 
 - 🔴 Red Team Operator
