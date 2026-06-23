@@ -155,113 +155,107 @@ Always Learning...
 </div>
 
 ---
+---
 
-# 🔥 Contribution Streak
+# 🔥 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=huzaifa0x&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=huzaifa0x&theme=radical&hide_border=true&background=000000"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa0x&theme=github-dark&hide_border=true&bg_color=000000&color=ff3333&line=ff0000&point=ffffff"/>
 
 </div>
+
+---
+
+# 🎯 CURRENT MISSION
+
+```text
+🎯 Advanced Recon Automation
+🌐 Web Application Security
+🔗 API Security
+☁️ Cloud Security
+🤖 AI Security Research
+🧠 Active Directory
+⚡ Offensive Security Automation
+````
+
+---
+
+# ⚡ TECH STACK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa0x&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,bash,go,js,linux,docker,kubernetes,git,github,vscode,aws,azure,terraform&perline=12"/>
 
 </div>
 
 ---
 
-# ⚡ Current Focus
+# 🛡️ OFFENSIVE SECURITY ARSENAL
 
-- Advanced Recon Automation
-- Web Application Security
-- Cloud Security
-- AI Security
-- Active Directory
-- API Security
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuclei-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Httpx-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subfinder-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Katana-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dalfox-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Amass-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gau-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Waybackurls-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux"/>
 
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,bash,go,js,linux,docker,kubernetes,git,github,vscode,aws,azure" />
-
-</p>
-
----
-
-# 🛡️ Security Arsenal
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Nuclei-0052CC?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Subfinder-222222?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/httpx-CC0000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Katana-444444?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Dalfox-990000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLMap-DD2222?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 🎯 Areas of Interest
+# 🌐 SECURITY DOMAINS
 
-- 🔴 Red Team Operations
-- 🌐 Web Application Security
-- 🔗 API Security
-- ☁️ Cloud Security
-- 🤖 AI Security
-- 📱 Mobile Security
-- 🧠 Active Directory
-- 🔍 OSINT
-- ⚡ Automation
-- 🐧 Linux
+| Offensive Security  | Application Security | Cloud Security | AI Security     |
+| ------------------- | -------------------- | -------------- | --------------- |
+| 🔴 Red Team         | 🌐 Web Security      | ☁️ AWS         | 🤖 AI Security  |
+| 🐞 Bug Bounty       | 🔗 API Security      | ☁️ Azure       | 🧠 LLM Security |
+| 🔍 OSINT            | 🔒 Authentication    | ☁️ IAM         | ⚡ AI Agents     |
+| 🧠 Active Directory | 🛡️ GraphQL          | ☸ Kubernetes   | 🔬 AI Research  |
 
 ---
 
-# 🛠️ Languages
+# 💻 PROGRAMMING
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+<div align="center">
 
-![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
+<img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go"/>
+<img src="https://img.shields.io/badge/Bash-red?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/PowerShell-red?style=for-the-badge&logo=powershell"/>
+<img src="https://img.shields.io/badge/YAML-black?style=for-the-badge"/>
 
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
----
-
-# 🛡️ Security Tools
-
-Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox • ffuf • Docker • Linux
+</div>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
 
+# 🌐 CONNECT
 
-# 🌐 Connect
-
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/huzaifa0x">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -279,40 +273,44 @@ Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox �
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<h2 align="center">👀 Profile Views</h2>
+# 👀 PROFILE VIEWS
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=huzaifa0x&label=Profile%20Views&color=red&style=for-the-badge" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔍 ReconX | Automated Recon Framework |
-| 🌐 API-Hunter | API Enumeration Toolkit |
-| ⚔️ RedTeam Toolkit | Offensive Security Scripts |
-| ☁️ CloudEnum | Cloud Recon Automation |
-| 🧠 AI-Sec | AI Security Research |
-
----
-
-<p align="center">
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=huzaifa0x&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 🚀 FEATURED PROJECTS
 
-<i>"The best way to predict the future is to create it."</i>
+| 🚀 Repository      | Description                 |
+| ------------------ | --------------------------- |
+| 🔍 ReconX          | Advanced Recon Framework    |
+| 🌐 API-Hunter      | API Discovery Toolkit       |
+| ⚔️ RedTeam Toolkit | Offensive Security Scripts  |
+| ☁️ CloudEnum       | Cloud Enumeration Framework |
+| 🤖 AI-Sec          | AI Security Research        |
 
-</p>
+---
+
+<div align="center">
+
+## ⚡ MISSION STATUS
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=MISSION:+ACTIVE;RED+TEAM:+ONLINE;BUG+BOUNTY:+HUNTING;OFFENSIVE+SECURITY:+ENABLED;KEEP+LEARNING+EVERY+DAY"/>
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Break • Learn • Secure • Repeat."**
+
+</div>
