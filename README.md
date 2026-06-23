@@ -123,18 +123,43 @@ Always Learning...
 
 ---
 
-# 🚀 About Me
+# 🚀 ABOUT ME
 
-- 🔴 Red Team Operator
-- 🐞 Bug Bounty Hunter
-- 🛡️ Offensive Security Researcher
-- 🤖 AI Security Automation
-- 🌐 Web Application Security
-- 🔗 API Security
-- ☁️ Cloud Security
-- 🧠 Active Directory
-- 🐧 Linux Enthusiast
-- ❤️ Open Source Contributor
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=OFFENSIVE+SECURITY+SPECIALIST;RED+TEAM+OPERATOR;BUG+BOUNTY+HUNTER;AI+SECURITY+RESEARCHER"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🔴_RED_TEAM-OPERATOR-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🐞_BUG_BOUNTY-HUNTER-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🛡️_OFFENSIVE_SECURITY-RESEARCHER-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖_AI_SECURITY-AUTOMATION-black?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🌐_WEB_APPLICATION-SECURITY-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🔗_API-SECURITY-black?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/☁️_CLOUD-SECURITY-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🧠_ACTIVE_DIRECTORY-SECURITY-black?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/🐧_KALI_LINUX-ENTHUSIAST.red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/❤️_OPEN_SOURCE-CONTRIBUTOR.black?style=flat-square"/>
+
+</div>
+
+<br>
 
 ---
 
