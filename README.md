@@ -167,23 +167,14 @@
 <div align="center">
 
 ```text
-┌───────────────────────────────┐     ┌───────────────────────────────┐
-│ 🔴 OFFENSIVE SECURITY         │     │ 🌐 APPLICATION SECURITY      │
-├───────────────────────────────┤     ├───────────────────────────────┤
-│ • Red Team                    │     │ • Web Security               │
-│ • Bug Bounty                  │     │ • API Security               │
-│ • OSINT                       │     │ • Authentication             │
-│ • Active Directory            │     │ • GraphQL                    │
-└───────────────────────────────┘     └───────────────────────────────┘
-
-┌───────────────────────────────┐     ┌───────────────────────────────┐
-│ ☁️ CLOUD SECURITY            │     │ 🤖 AI SECURITY               │
-├───────────────────────────────┤     ├───────────────────────────────┤
-│ • AWS                         │     │ • AI Security                │
-│ • Azure                       │     │ • LLM Security               │
-│ • IAM                         │     │ • AI Agents                  │
-│ • Kubernetes                  │     │ • AI Research                │
-└───────────────────────────────┘     └───────────────────────────────┘
+┌──────────────────────┐ ┌──────────────────────┐ ┌──────────────────────┐ ┌──────────────────────┐
+│ 🔴 OFFENSIVE         │ │ 🌐 APPLICATION       │ │ ☁️ CLOUD             │ │ 🤖 AI               │
+├──────────────────────┤ ├──────────────────────┤ ├──────────────────────┤ ├──────────────────────┤
+│ • Red Team           │ │ • Web Security       │ │ • AWS               │ │ • AI Security       │
+│ • Bug Bounty         │ │ • API Security       │ │ • Azure             │ │ • LLM Security      │
+│ • OSINT              │ │ • Authentication     │ │ • IAM               │ │ • AI Agents         │
+│ • Active Directory   │ │ • GraphQL            │ │ • Kubernetes        │ │ • AI Research       │
+└──────────────────────┘ └──────────────────────┘ └──────────────────────┘ └──────────────────────┘
 ```
 
 </div>
