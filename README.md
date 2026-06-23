@@ -125,6 +125,16 @@ Always Learning...
 
 ---
 
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,bash,go,js,linux,docker,kubernetes,git,github,vscode,aws,azure" />
+
+</p>
+
+---
+
 # 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
