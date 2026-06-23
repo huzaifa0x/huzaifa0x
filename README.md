@@ -48,18 +48,70 @@
 
 ---
 
-# 🚀 About Me
+# 🚀 ABOUT ME
 
-- 🔴 Red Team Operator
-- 🐞 Bug Bounty Hunter
-- 🛡️ Offensive Security Researcher
-- 🤖 AI Security Automation
-- 🌐 Web Application Security
-- 🔗 API Security
-- ☁️ Cloud Security
-- 🧠 Active Directory
-- 🐧 Linux Enthusiast
-- ❤️ Open Source Contributor
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Passionate+About+Cyber+Security;Breaking+Things+To+Make+Them+Secure;Building+Automation+For+Security;Always+Learning+%7C+Always+Improving"/>
+
+</div>
+
+<br>
+
+```bash
+root@huzaifa0x:~$ cat about_me.txt
+
+[🔴] Red Team Operator
+     Offensive mindset. Breaching barriers.
+
+[🐞] Bug Bounty Hunter
+     Finding vulnerabilities. Earning trust.
+
+[🛡️] Offensive Security Researcher
+     Researching threats. Building defenses.
+
+[🤖] AI Security Automation
+     Automating security workflows.
+
+[🌐] Web Application Security
+     Testing modern web applications.
+
+[🔗] API Security
+     REST • GraphQL • OAuth • JWT
+
+[☁️] Cloud Security
+     AWS • Azure • Containers
+
+[🧠] Active Directory
+     Windows Enterprise Security
+
+[🐧] Linux Enthusiast
+     Kali Linux • Bash • Automation
+
+[❤️] Open Source Contributor
+     Learning • Building • Sharing
+
+root@huzaifa0x:~$ status
+
+🟢 ONLINE
+MISSION READY
+```
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/🔴_RED_TEAM-OPERATOR-FF0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🐞_BUG_BOUNTY-HUNTER-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🛡️_WEB-SECURITY-FF0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🤖_AI-SECURITY-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/☁️_CLOUD-SECURITY-FF0000?style=for-the-badge"/>
+
+</p>
 
 ---
 
