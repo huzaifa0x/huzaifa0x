@@ -44,36 +44,43 @@
 
 <div align="center">
 
-<table width="85%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=SYSTEM+INITIALIZED;OPERATOR+PROFILE;RED+TEAM+MODE+ENABLED"/>
+
+</div>
+
+<br>
+
+<table width="100%">
+
 <tr>
 
-<td width="48%" valign="top">
+<td width="49%" valign="top">
 
-## 🔴 WHOAMI
+## 🔴 OPERATOR PROFILE
 
 ```yaml
-Name:
-  Mohd Huzaifa
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Alias:
-  huzaifa0x
+👤 Identity
 
-Role:
-  Red Team Operator
+Name   : Mohd Huzaifa
+Alias  : huzaifa0x
+Role   : Red Team Operator
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Focus
+🎯 Expertise
 
-• Bug Bounty
-• Web Security
+• Bug Bounty Hunting
+• Web Application Security
 • API Security
 • Cloud Security
 • AI Security
+• Active Directory
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Environment
+💻 Environment
 
 OS
 • Kali Linux
@@ -85,71 +92,91 @@ Languages
 • Bash
 • JavaScript
 
-━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Status
 
-🟢 Online
+🟢 ONLINE
 
 Always Learning...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
 
-<td width="4%"></td>
+<td width="2%"></td>
 
-<td width="48%" valign="top">
+<td width="49%" valign="top">
 
-## 💻 TERMINAL
+## ⚡ LIVE TERMINAL
 
 ```console
 root@huzaifa0x:~$ whoami
 
 Mohd Huzaifa
 
-────────────────────
+━━━━━━━━━━━━━━━━━━━━
 
 root@huzaifa0x:~$ role
 
 Red Team Operator
 
-────────────────────
+━━━━━━━━━━━━━━━━━━━━
 
 root@huzaifa0x:~$ mission
 
 ✔ Advanced Recon
+✔ Bug Bounty
 ✔ Web Security
 ✔ API Security
 ✔ Cloud Security
+✔ AI Security
 
-────────────────────
+━━━━━━━━━━━━━━━━━━━━
 
 root@huzaifa0x:~$ tools
 
 Burp Suite
 Nuclei
-Katana
 Httpx
+Katana
+Subfinder
 Dalfox
 ffuf
+SQLMap
 
-────────────────────
+━━━━━━━━━━━━━━━━━━━━
+
+root@huzaifa0x:~$ access
+
+ACCESS GRANTED
+
+━━━━━━━━━━━━━━━━━━━━
 
 root@huzaifa0x:~$ status
 
-ACCESS : GRANTED
-
 🟢 ONLINE
+
+Always Learning...
 ```
 
 </td>
 
 </tr>
+
 </table>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0A0000,50:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=22&animation=fadeIn"/>
 
 </div>
 
 ---
+
 
 # 🚀 About Me
 
