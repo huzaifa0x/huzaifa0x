@@ -36,122 +36,84 @@
 
 <div align="center">
 
-# 🔴 OPERATOR STATUS
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=RED+TEAM+MODE+ENABLED;BUG+BOUNTY+HUNTING;OFFENSIVE+SECURITY+RESEARCH;TARGET:+AUTHORIZED"/>
-
-</div>
-
-<br>
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                      OPERATOR PROFILE                      │
-├────────────────────────────────────────────────────────────┤
-│ 👤 Name        : Mohd Huzaifa                              │
-│ 🎯 Alias       : huzaifa0x                                │
-│ 🔴 Role        : Red Team Operator                        │
-│ 🟢 Status      : Online                                   │
-│ 💻 OS          : Kali Linux • Windows                     │
-│ 🐍 Languages   : Python • Go • Bash • JavaScript          │
-└────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-## 🎯 CURRENT MISSION
-
-```text
-✔ Advanced Recon Automation
-✔ Web Application Security
-✔ API Security Assessment
-✔ Cloud Security
-✔ AI Security Research
-✔ Active Directory
-✔ Offensive Security Automation
-```
-
-<br>
-
-## 🛠️ SECURITY ARSENAL
-
-```text
-Burp Suite
-Nuclei
-Httpx
-Katana
-Subfinder
-Dalfox
-ffuf
-SQLMap
-Docker
-Kali Linux
-```
-
-<br>
-
-## ⚡ LIVE TERMINAL
-
-```console
-root@huzaifa0x:~$ whoami
-Mohd Huzaifa
-
-root@huzaifa0x:~$ role
-Red Team Operator
-
-root@huzaifa0x:~$ access
-ACCESS GRANTED
-
-root@huzaifa0x:~$ mode
-OFFENSIVE SECURITY
-
-root@huzaifa0x:~$ status
-🟢 ONLINE
-Always Learning...
-```
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:100000,50:FF0000,100:100000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=24&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0000,30:550000,60:FF0000,100:220000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=32&animation=fadeIn"/>
 
 </div>
 
 ---
-````
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 👨‍💻 WHOAMI
+
+```yaml
+Name: Mohd Huzaifa
+Alias: huzaifa0x
+Role: Red Team Operator
+
+Specialization:
+  - Bug Bounty Hunting
+  - Web Application Security
+  - API Security
+  - Active Directory
+  - Cloud Security
+  - AI Security
+
+Operating Systems:
+  - Kali Linux
+  - Windows
+
+Languages:
+  - Python
+  - Bash
+  - Go
+  - JavaScript
+
+Current Status:
+  Learning.
+  Building.
+  Breaking.
+  Securing.
+```
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💻 LIVE TERMINAL
+## 💻 TERMINAL
 
-```console
-root@huzaifa0x:~$ id
+```bash
+root@huzaifa0x:~$ whoami
 
-uid=0(root)
+Mohd Huzaifa
 
-root@huzaifa0x:~$ mission
+root@huzaifa0x:~$ role
 
-✔ Offensive Security
+Red Team Operator
+
+root@huzaifa0x:~$ current_focus
+
+✔ Advanced Recon Automation
 ✔ Web Security
 ✔ API Security
 ✔ Cloud Security
+✔ AI Security
 
-root@huzaifa0x:~$ arsenal
+root@huzaifa0x:~$ favorite_tools
 
 Burp Suite
 Nuclei
-Katana
 Httpx
+Subfinder
+Katana
 Dalfox
-SQLMap
 
 root@huzaifa0x:~$ status
 
-ACCESS : GRANTED
-TARGET : AUTHORIZED
-MODE   : RED TEAM
+Always Learning...
 ```
 
 </td>
@@ -161,45 +123,18 @@ MODE   : RED TEAM
 
 ---
 
+# 🚀 About Me
 
-
-# 🚀 ABOUT ME
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=OFFENSIVE+SECURITY+SPECIALIST;RED+TEAM+OPERATOR;BUG+BOUNTY+HUNTER;AI+SECURITY+RESEARCHER"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🔴_RED_TEAM-OPERATOR-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🐞_BUG_BOUNTY-HUNTER-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🛡️_OFFENSIVE_SECURITY-RESEARCHER-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/🤖_AI_SECURITY-AUTOMATION-black?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/🌐_WEB_APPLICATION-SECURITY-red?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🔗_API-SECURITY-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/☁️_CLOUD-SECURITY-red?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🧠_ACTIVE_DIRECTORY-SECURITY-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/🐧_KALI_LINUX-ENTHUSIAST.red?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/❤️_OPEN_SOURCE-CONTRIBUTOR.black?style=flat-square"/>
-
-</div>
-
-<br>
+- 🔴 Red Team Operator
+- 🐞 Bug Bounty Hunter
+- 🛡️ Offensive Security Researcher
+- 🤖 AI Security Automation
+- 🌐 Web Application Security
+- 🔗 API Security
+- ☁️ Cloud Security
+- 🧠 Active Directory
+- 🐧 Linux Enthusiast
+- ❤️ Open Source Contributor
 
 ---
 
@@ -224,36 +159,36 @@ MODE   : RED TEAM
 ---
 
 
+
 # 🔥 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=huzaifa0x&theme=radical&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+<img src="https://streak-stats.demolab.com?user=huzaifa0x&theme=radical&hide_border=true&background=000000"/>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa0x&theme=github-dark&hide_border=true&bg_color=000000&color=FFFFFF&line=FF0000&point=FFFFFF&area=true&area_color=330000&title_color=FF0000"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=huzaifa0x&theme=github-dark&hide_border=true&bg_color=000000&color=ff3333&line=ff0000&point=ffffff"/>
 
 </div>
 
 ---
-
 
 # 🎯 CURRENT MISSION
 
 ```text
 🎯 Advanced Recon Automation
 🌐 Web Application Security
-🔗 API Security Testing
+🔗 API Security
 ☁️ Cloud Security
 🤖 AI Security Research
 🧠 Active Directory
-⚡ Offensive Automation
+⚡ Offensive Security Automation
 ````
 
 ---
 
-# ⚙️ TECH STACK
+# ⚡ TECH STACK
 
 <div align="center">
 
@@ -270,16 +205,14 @@ MODE   : RED TEAM
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nuclei-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Httpx-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Katana-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Subfinder-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subfinder-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Katana-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dalfox-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Amass-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/httpx-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gau-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Waybackurls-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Katana-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gau-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Waybackurls-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux"/>
 
@@ -287,18 +220,14 @@ MODE   : RED TEAM
 
 ---
 
-# 🎯 SECURITY DOMAINS
+# 🌐 SECURITY DOMAINS
 
-<div align="center">
-
-| 🔴 Offensive     | 🌐 Application | ☁️ Cloud   | 🤖 AI           |
-| ---------------- | -------------- | ---------- | --------------- |
-| Red Team         | Web Security   | AWS        | AI Security     |
-| Bug Bounty       | API Security   | Azure      | LLM Security    |
-| OSINT            | GraphQL        | Kubernetes | AI Agents       |
-| Active Directory | Authentication | IAM        | Prompt Security |
-
-</div>
+| Offensive Security  | Application Security | Cloud Security | AI Security     |
+| ------------------- | -------------------- | -------------- | --------------- |
+| 🔴 Red Team         | 🌐 Web Security      | ☁️ AWS         | 🤖 AI Security  |
+| 🐞 Bug Bounty       | 🔗 API Security      | ☁️ Azure       | 🧠 LLM Security |
+| 🔍 OSINT            | 🔒 Authentication    | ☁️ IAM         | ⚡ AI Agents     |
+| 🧠 Active Directory | 🛡️ GraphQL          | ☸ Kubernetes   | 🔬 AI Research  |
 
 ---
 
@@ -363,21 +292,21 @@ MODE   : RED TEAM
 
 # 🚀 FEATURED PROJECTS
 
-| 🚀 Project         | 📝 Description               |
-| ------------------ | ---------------------------- |
-| 🔍 ReconX          | Advanced Recon Framework     |
-| 🌐 API-Hunter      | API Discovery Toolkit        |
-| ⚔️ RedTeam Toolkit | Offensive Security Utilities |
-| ☁️ CloudEnum       | Cloud Enumeration Framework  |
-| 🤖 AI-Sec          | AI Security Research         |
+| 🚀 Repository      | Description                 |
+| ------------------ | --------------------------- |
+| 🔍 ReconX          | Advanced Recon Framework    |
+| 🌐 API-Hunter      | API Discovery Toolkit       |
+| ⚔️ RedTeam Toolkit | Offensive Security Scripts  |
+| ☁️ CloudEnum       | Cloud Enumeration Framework |
+| 🤖 AI-Sec          | AI Security Research        |
 
 ---
 
 <div align="center">
 
-## ⚠️ MISSION STATUS
+## ⚡ MISSION STATUS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=MISSION:+ACTIVE;RED+TEAM:+ONLINE;BUG+BOUNTY:+HUNTING;OFFENSIVE+SECURITY:+ENABLED;KEEP+LEARNING+EVERY+DAY"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=MISSION:+ACTIVE;RED+TEAM:+ONLINE;BUG+BOUNTY:+HUNTING;OFFENSIVE+SECURITY:+ENABLED;KEEP+LEARNING+EVERY+DAY"/>
 
 </div>
 
@@ -385,7 +314,7 @@ MODE   : RED TEAM
 
 <div align="center">
 
-> **"Break. Learn. Secure. Repeat."**
+> **"Break • Learn • Secure • Repeat."**
 
 </div>
 ```
