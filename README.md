@@ -18,9 +18,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CLOUD-AWS_|_AZURE-FF0000?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLOUD_SECURITY-AWS_|_AZURE-FF0000?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/API-REST_|_GRAPHQL-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_SECURITY-REST_|_GRAPHQL-000000?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/LINUX-KALI_LINUX-FF0000?style=flat-square"/>
 
@@ -38,41 +38,11 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0A0000,35:550000,70:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=28&animation=fadeIn"/>
-
-<br><br>
-
 <img src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/main/assets/operator-dashboard.png" width="100%" alt="Operator Dashboard"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0000,30:550000,60:FF0000,100:220000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=32&animation=fadeIn"/>
-
-</div>
-
----
-
-# 🔴 OPERATOR DASHBOARD
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=24&duration=3000&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE;ACCESS+GRANTED;RED+TEAM+OPERATOR;MISSION+READY"/>
-
 <br><br>
 
-<img
-src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/main/assets/operator-dashboard.png"
-alt="Operator Dashboard"
-width="100%"
-/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0A0000,50:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=24&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0A0000,35:550000,70:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=28&animation=fadeIn"/>
 
 </div>
 
