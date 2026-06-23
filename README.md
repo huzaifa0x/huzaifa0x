@@ -1,16 +1,45 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/huzaifa0x/assets/main/banner.png.png" width="100%" />
+<img src="https://raw.githubusercontent.com/huzaifa0x/assets/main/banner.png" width="100%" />
 
-<br>
+<br><br>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=FF2D55&center=true&vCenter=true&width=950&lines=🔴+Red+Team+Operator;🐞+Bug+Bounty+Hunter;🛡️+Offensive+Security+Researcher;🤖+AI+Security+Automation;☁️+Cloud+Security;🌐+Web+Application+Security;⚡+Always+Learning+Something+New..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Always+Learning..." />
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/RED_TEAM-ACTIVE-red?style=for-the-badge&logo=probot&logoColor=white"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=FF2D55&center=true&vCenter=true&width=900&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Cloud+Security;Web+Application+Security;Always+Learning+Something+New..." />
+<img src="https://img.shields.io/badge/BUG_BOUNTY-HUNTER-black?style=for-the-badge&logo=hackthebox&logoColor=red"/>
+
+<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-RESEARCHER-red?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_SECURITY-AUTOMATION-black?style=for-the-badge&logo=openai&logoColor=red"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CLOUD_SECURITY-AWS%20|%20AZURE-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/API_SECURITY-REST%20|%20GraphQL-black?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LINUX-Kali%20Linux-red?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/STATUS-Always%20Learning-black?style=flat-square"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+██████╗ ███████╗██████╗     ████████╗███████╗ █████╗ ███╗   ███╗
+██╔══██╗██╔════╝██╔══██╗    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+██████╔╝█████╗  ██║  ██║       ██║   █████╗  ███████║██╔████╔██║
+██╔══██╗██╔══╝  ██║  ██║       ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+██║  ██║███████╗██████╔╝       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚══════╝╚═════╝        ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
 </div>
 
