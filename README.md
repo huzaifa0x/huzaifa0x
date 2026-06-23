@@ -82,4 +82,10 @@ Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox �
 
 # 📫 Connect
 
-Coming Soon...
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/huzaifa0x)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohd-huzaifa-519a262a4)
+
+[![Twitter](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/mohdhuzaifa0786)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:mohdhuzaifah0786@gmail.com)
