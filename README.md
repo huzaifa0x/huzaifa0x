@@ -192,6 +192,15 @@ Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox �
 
 ---
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
+
 # 🌐 Connect
 
 <p align="center">
