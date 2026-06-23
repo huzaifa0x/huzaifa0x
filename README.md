@@ -142,9 +142,9 @@ Always Learning...
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_radius=12&ring_color=FF0000&include_all_commits=true&count_private=true"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&include_all_commits=true&count_private=true"/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_radius=12"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/>
 
 </div>
 
@@ -166,7 +166,7 @@ Always Learning...
 
 </div>
 
-```
+---
 
 # 🔥 GITHUB ACTIVITY
 
@@ -184,7 +184,7 @@ Always Learning...
 
 # 🎯 CURRENT MISSION
 
-```text
+
 🎯 Advanced Recon Automation
 🌐 Web Application Security
 🔗 API Security
@@ -192,9 +192,8 @@ Always Learning...
 🤖 AI Security Research
 🧠 Active Directory
 ⚡ Offensive Security Automation
-````
 
----
+````
 
 # ⚡ TECH STACK
 
