@@ -51,35 +51,11 @@
 
 ---
 
-# 💻 Live Terminal
-
-```text
-root@huzaifa0x:~$ whoami
-Mohd Huzaifa
-
-root@huzaifa0x:~$ role
-Red Team Operator
-
-root@huzaifa0x:~$ focus
-• Web Application Security
-• API Security
-• Active Directory
-• Cloud Security
-• AI Security
-• Bug Bounty Hunting
-
-root@huzaifa0x:~$ status
-Always Learning...
-
-```
-
 # 🏆 Trophy Wall
 
 <div align="center">
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifa0x&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=huzaifa0x&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
