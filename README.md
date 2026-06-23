@@ -4,21 +4,27 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=1000&lines=🔴+Red+Team+Operator;🐞+Bug+Bounty+Hunter;🛡️+Offensive+Security+Researcher;🤖+AI+Security+Automation;☁️+Cloud+Security;🌐+Web+Application+Security;⚡+Always+Learning..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=1000&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Cloud+Security;Web+Application+Security;Always+Learning..." alt="Typing Animation"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔴_RED_TEAM-ACTIVE-red?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/🐞_BUG_BOUNTY-HUNTER-black?style=for-the-badge&logo=hackthebox&logoColor=red"/>
-<img src="https://img.shields.io/badge/🛡️_OFFENSIVE_SECURITY-RESEARCHER-red?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤖_AI_SECURITY-AUTOMATION-black?style=for-the-badge&logo=openai&logoColor=red"/>
+<img src="https://img.shields.io/badge/RED_TEAM-ACTIVE-FF0000?style=for-the-badge&logo=probot&logoColor=white"/>
 
-<br>
+<img src="https://img.shields.io/badge/BUG_BOUNTY-HUNTER-000000?style=for-the-badge&logo=hackthebox&logoColor=red"/>
 
-<img src="https://img.shields.io/badge/☁️_Cloud-AWS_|_Azure-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/🌐_API-REST_|_GraphQL-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/🐧_Linux-Kali-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/⚡_Status-Always_Learning-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/OFFENSIVE_SECURITY-RESEARCHER-FF0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_SECURITY-AUTOMATION-000000?style=for-the-badge&logo=openai&logoColor=red"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CLOUD-AWS_|_AZURE-FF0000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/API-REST_|_GRAPHQL-000000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LINUX-KALI_LINUX-FF0000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/STATUS-Always_Learning-000000?style=flat-square"/>
 
 </div>
 
@@ -28,7 +34,11 @@
 
 # 🔴 OFFENSIVE SECURITY DASHBOARD
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Advanced+Red+Team+Operations;Web+Application+Security;API+Security;Cloud+Security;AI+Security+Research;Automation+%7C+Recon+%7C+OSINT"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=950&lines=Advanced+Red+Team+Operations;Bug+Bounty+Hunting;Web+Application+Security;API+Security;Cloud+Security;AI+Security+Research;Automation+%7C+Recon+%7C+OSINT"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0A0000,35:550000,70:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=30&animation=fadeIn"/>
 
 </div>
 
