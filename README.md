@@ -34,11 +34,15 @@
 
 # 🔴 OFFENSIVE SECURITY DASHBOARD
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=950&lines=Advanced+Red+Team+Operations;Bug+Bounty+Hunting;Web+Application+Security;API+Security;Cloud+Security;AI+Security+Research;Automation+%7C+Recon+%7C+OSINT"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=3000&pause=1200&color=FF0000&center=true&vCenter=true&width=950&lines=Advanced+Red+Team+Operations;Bug+Bounty+Hunting;Web+Application+Security;API+Security;Cloud+Security;AI+Security+Research;Automation+%7C+Recon+%7C+OSINT"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0A0000,35:550000,70:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=30&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0A0000,35:550000,70:FF0000,100:0A0000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=28&animation=fadeIn"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/huzaifa0x/huzaifa0x/main/assets/operator-dashboard.png" width="100%" alt="Operator Dashboard"/>
 
 </div>
 
