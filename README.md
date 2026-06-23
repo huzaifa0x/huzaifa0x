@@ -135,6 +135,45 @@ Always Learning...
 
 ---
 
+# 🛡️ Security Arsenal
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nuclei-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Subfinder-222222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/httpx-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Katana-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Dalfox-990000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ffuf-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLMap-DD2222?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🎯 Areas of Interest
+
+- 🔴 Red Team Operations
+- 🌐 Web Application Security
+- 🔗 API Security
+- ☁️ Cloud Security
+- 🤖 AI Security
+- 📱 Mobile Security
+- 🧠 Active Directory
+- 🔍 OSINT
+- ⚡ Automation
+- 🐧 Linux
+
+---
+
 # 🛠️ Languages
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
