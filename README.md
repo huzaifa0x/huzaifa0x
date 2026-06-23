@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=3500&pause=1200&color=FF0000&center=true&vCenter=true&width=950&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Cloud+Security;Web+Application+Security;Always+Learning..." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=3200&pause=1200&color=FF0000&center=true&vCenter=true&width=1000&lines=🔴+Red+Team+Operator;🐞+Bug+Bounty+Hunter;🛡️+Offensive+Security+Researcher;🤖+AI+Security+Automation;☁️+Cloud+Security;🌐+Web+Application+Security;⚡+Always+Learning..." alt="Typing SVG"/>
 
 <br><br>
 
@@ -13,12 +13,12 @@
 <img src="https://img.shields.io/badge/🛡️_OFFENSIVE_SECURITY-RESEARCHER-red?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/🤖_AI_SECURITY-AUTOMATION-black?style=for-the-badge&logo=openai&logoColor=red"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/☁️_CLOUD_SECURITY-AWS_|_AZURE-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/🌐_API_SECURITY-REST_|_GraphQL-black?style=flat-square"/>
-<img src="https://img.shields.io/badge/🐧_LINUX-Kali_Linux-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/⚡_STATUS-Always_Learning-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/☁️_Cloud-AWS_|_Azure-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌐_API-REST_|_GraphQL-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/🐧_Linux-Kali-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/⚡_Status-Always_Learning-black?style=flat-square"/>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 # 🔴 OFFENSIVE SECURITY DASHBOARD
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=34&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Offensive+Security+Dashboard;Advanced+Red+Team+Operations;Bug+Bounty+%7C+Web+Security;API+Security+%7C+Cloud+Security;AI+Security+Research;Always+One+Step+Ahead..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2800&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Advanced+Red+Team+Operations;Web+Application+Security;API+Security;Cloud+Security;AI+Security+Research;Automation+%7C+Recon+%7C+OSINT"/>
 
 </div>
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0000,50:FF0000,100:1A0000&height=90&section=header&text=ACCESS%20GRANTED&fontColor=ffffff&fontSize=38&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D0000,30:550000,60:FF0000,100:220000&text=ACCESS%20GRANTED&fontColor=FFFFFF&fontSize=32&animation=fadeIn"/>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <td width="50%" valign="top">
 
-# 👨‍💻 WHOAMI
+## 👨‍💻 WHOAMI
 
 ```yaml
 Name: Mohd Huzaifa
@@ -56,25 +56,34 @@ Role: Red Team Operator
 
 Specialization:
   - Bug Bounty Hunting
-  - Web Security
+  - Web Application Security
   - API Security
   - Active Directory
   - Cloud Security
   - AI Security
 
-OS:
+Operating Systems:
   - Kali Linux
   - Windows
 
+Languages:
+  - Python
+  - Bash
+  - Go
+  - JavaScript
+
 Current Status:
-  Learning. Building. Breaking. Securing.
+  Learning.
+  Building.
+  Breaking.
+  Securing.
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-# 💻 TERMINAL
+## 💻 TERMINAL
 
 ```bash
 root@huzaifa0x:~$ whoami
@@ -87,11 +96,20 @@ Red Team Operator
 
 root@huzaifa0x:~$ current_focus
 
-✔ Advanced Recon
+✔ Advanced Recon Automation
 ✔ Web Security
 ✔ API Security
-✔ AI Security
 ✔ Cloud Security
+✔ AI Security
+
+root@huzaifa0x:~$ favorite_tools
+
+Burp Suite
+Nuclei
+Httpx
+Subfinder
+Katana
+Dalfox
 
 root@huzaifa0x:~$ status
 
@@ -111,10 +129,12 @@ Always Learning...
 - 🐞 Bug Bounty Hunter
 - 🛡️ Offensive Security Researcher
 - 🤖 AI Security Automation
+- 🌐 Web Application Security
+- 🔗 API Security
 - ☁️ Cloud Security
-- 🌐 API Security
+- 🧠 Active Directory
 - 🐧 Linux Enthusiast
-- ❤️ Open Source
+- ❤️ Open Source Contributor
 
 ---
 
@@ -122,9 +142,15 @@ Always Learning...
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&theme=radical&hide_border=true&bg_color=000000"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa0x&theme=github_dark"/>
 
 </div>
 
