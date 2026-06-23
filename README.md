@@ -40,129 +40,64 @@
 
 </div>
 
----
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<table>
-<tr>
+## 🔴 OPERATOR PROFILE
 
-<td width="50%" valign="top">
-
-## 🔴 WHOAMI
-
-```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Identity:
-  Name: Mohd Huzaifa
-  Alias: huzaifa0x
-  Role: Red Team Operator
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Mission:
-  🔴 Offensive Security
-  🐞 Bug Bounty Hunting
-  🌐 Web Application Security
-  🔗 API Security
-  ☁️ Cloud Security
-  🤖 AI Security
-  🧠 Active Directory
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Environment:
-  OS:
-    • Kali Linux
-    • Windows
-
-Languages:
-    • Python
-    • Bash
-    • Go
-    • JavaScript
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Status:
-  ✔ Learning
-  ✔ Building
-  ✔ Exploiting
-  ✔ Securing
-
-Threat Level:
-  ██████████ 100%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```text
+╭──────────────────────────────╮
+│  👤 Mohd Huzaifa             │
+│  🎯 huzaifa0x                │
+│                              │
+│  🔴 Red Team Operator        │
+│  🐞 Bug Bounty Hunter        │
+│  🛡 Offensive Security       │
+│  🤖 AI Security             │
+│  ☁ Cloud Security           │
+│  🌐 API Security            │
+│                              │
+│  OS : Kali Linux            │
+│  LANG : Python • Go • Bash  │
+│                              │
+│  STATUS : 🟢 ONLINE         │
+╰──────────────────────────────╯
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-## 💻 TERMINAL
+## 💻 LIVE TERMINAL
 
 ```console
-root@huzaifa0x:~$ whoami
+root@huzaifa0x:~$ id
 
-Mohd Huzaifa
+uid=0(root)
 
-──────────────────────────────
+root@huzaifa0x:~$ mission
 
-root@huzaifa0x:~$ role
-
-Red Team Operator
-
-──────────────────────────────
-
-root@huzaifa0x:~$ current_mission
-
-✔ Advanced Recon
-✔ Bug Bounty Hunting
+✔ Offensive Security
 ✔ Web Security
 ✔ API Security
 ✔ Cloud Security
-✔ AI Security
-
-──────────────────────────────
 
 root@huzaifa0x:~$ arsenal
 
 Burp Suite
 Nuclei
-Httpx
 Katana
-Subfinder
+Httpx
 Dalfox
-ffuf
 SQLMap
-Docker
-
-──────────────────────────────
-
-root@huzaifa0x:~$ target
-
-Web Applications
-APIs
-Cloud Infrastructure
-Active Directory
-
-──────────────────────────────
-
-root@huzaifa0x:~$ access
-
-ACCESS GRANTED
-
-──────────────────────────────
 
 root@huzaifa0x:~$ status
 
-🟢 ONLINE
-Always Learning...
+ACCESS : GRANTED
+TARGET : AUTHORIZED
+MODE   : RED TEAM
 ```
 
 </td>
@@ -171,6 +106,7 @@ Always Learning...
 </table>
 
 ---
+
 
 
 # 🚀 ABOUT ME
