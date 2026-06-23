@@ -4,6 +4,12 @@
 
 <br>
 
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Always+Learning..." />
+
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=FF2D55&center=true&vCenter=true&width=900&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Cloud+Security;Web+Application+Security;Always+Learning+Something+New..." />
 
 </div>
@@ -223,6 +229,13 @@ Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox �
 
 </p>
 
+---
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=huzaifa0x&label=Profile%20Views&color=red&style=for-the-badge" />
+</p>
 
 ---
 
@@ -241,5 +254,13 @@ Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox �
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=huzaifa0x&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"The best way to predict the future is to create it."</i>
 
 </p>
