@@ -47,36 +47,57 @@
 
 <td width="50%" valign="top">
 
-## 👨‍💻 WHOAMI
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔴 WHOAMI
 
 ```yaml
-Name: Mohd Huzaifa
-Alias: huzaifa0x
-Role: Red Team Operator
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Specialization:
-  - Bug Bounty Hunting
-  - Web Application Security
-  - API Security
-  - Active Directory
-  - Cloud Security
-  - AI Security
+Identity:
+  Name: Mohd Huzaifa
+  Alias: huzaifa0x
+  Role: Red Team Operator
 
-Operating Systems:
-  - Kali Linux
-  - Windows
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mission:
+  🔴 Offensive Security
+  🐞 Bug Bounty Hunting
+  🌐 Web Application Security
+  🔗 API Security
+  ☁️ Cloud Security
+  🤖 AI Security
+  🧠 Active Directory
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Environment:
+  OS:
+    • Kali Linux
+    • Windows
 
 Languages:
-  - Python
-  - Bash
-  - Go
-  - JavaScript
+    • Python
+    • Bash
+    • Go
+    • JavaScript
 
-Current Status:
-  Learning.
-  Building.
-  Breaking.
-  Securing.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Status:
+  ✔ Learning
+  ✔ Building
+  ✔ Exploiting
+  ✔ Securing
+
+Threat Level:
+  ██████████ 100%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </td>
@@ -85,34 +106,62 @@ Current Status:
 
 ## 💻 TERMINAL
 
-```bash
+```console
 root@huzaifa0x:~$ whoami
 
 Mohd Huzaifa
+
+──────────────────────────────
 
 root@huzaifa0x:~$ role
 
 Red Team Operator
 
-root@huzaifa0x:~$ current_focus
+──────────────────────────────
 
-✔ Advanced Recon Automation
+root@huzaifa0x:~$ current_mission
+
+✔ Advanced Recon
+✔ Bug Bounty Hunting
 ✔ Web Security
 ✔ API Security
 ✔ Cloud Security
 ✔ AI Security
 
-root@huzaifa0x:~$ favorite_tools
+──────────────────────────────
+
+root@huzaifa0x:~$ arsenal
 
 Burp Suite
 Nuclei
 Httpx
-Subfinder
 Katana
+Subfinder
 Dalfox
+ffuf
+SQLMap
+Docker
+
+──────────────────────────────
+
+root@huzaifa0x:~$ target
+
+Web Applications
+APIs
+Cloud Infrastructure
+Active Directory
+
+──────────────────────────────
+
+root@huzaifa0x:~$ access
+
+ACCESS GRANTED
+
+──────────────────────────────
 
 root@huzaifa0x:~$ status
 
+🟢 ONLINE
 Always Learning...
 ```
 
@@ -122,6 +171,7 @@ Always Learning...
 </table>
 
 ---
+
 
 # 🚀 ABOUT ME
 
