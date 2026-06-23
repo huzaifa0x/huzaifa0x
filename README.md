@@ -138,24 +138,35 @@ Always Learning...
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_radius=12&ring_color=FF0000&include_all_commits=true&count_private=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&theme=radical&hide_border=true&bg_color=000000"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_radius=12"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa0x&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa0x&theme=github_dark"/>
 
 </div>
 
----
----
+<br>
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa0x&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa0x&theme=github_dark"/>
+
+</div>
+
+```
 
 # 🔥 GITHUB ACTIVITY
 
