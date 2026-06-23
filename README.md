@@ -51,6 +51,28 @@
 
 ---
 
+# 💻 Live Terminal
+
+```text
+root@huzaifa0x:~$ whoami
+Mohd Huzaifa
+
+root@huzaifa0x:~$ role
+Red Team Operator
+
+root@huzaifa0x:~$ focus
+• Web Application Security
+• API Security
+• Active Directory
+• Cloud Security
+• AI Security
+• Bug Bounty Hunting
+
+root@huzaifa0x:~$ status
+Always Learning...
+
+```
+
 # 🏆 Trophy Wall
 
 <div align="center">
