@@ -138,31 +138,19 @@ Always Learning...
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=huzaifa0x&show_icons=true&theme=radical&hide_border=true&bg_color=000000"/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa0x&layout=compact&theme=radical&hide_border=true&bg_color=000000"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa0x&theme=github_dark"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa0x&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa0x&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa0x&theme=github_dark"/>
 
 </div>
 
@@ -184,18 +172,19 @@ Always Learning...
 
 # 🎯 CURRENT MISSION
 
-
+```text
 🎯 Advanced Recon Automation
 🌐 Web Application Security
-🔗 API Security
+🔗 API Security Testing
 ☁️ Cloud Security
 🤖 AI Security Research
 🧠 Active Directory
-⚡ Offensive Security Automation
-
+⚡ Offensive Automation
 ````
 
-# ⚡ TECH STACK
+---
+
+# ⚙️ TECH STACK
 
 <div align="center">
 
@@ -212,14 +201,16 @@ Always Learning...
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nuclei-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Httpx-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Subfinder-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Katana-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Katana-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subfinder-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dalfox-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Amass-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gau-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Waybackurls-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/httpx-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gau-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Waybackurls-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Katana-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux"/>
 
@@ -227,14 +218,18 @@ Always Learning...
 
 ---
 
-# 🌐 SECURITY DOMAINS
+# 🎯 SECURITY DOMAINS
 
-| Offensive Security  | Application Security | Cloud Security | AI Security     |
-| ------------------- | -------------------- | -------------- | --------------- |
-| 🔴 Red Team         | 🌐 Web Security      | ☁️ AWS         | 🤖 AI Security  |
-| 🐞 Bug Bounty       | 🔗 API Security      | ☁️ Azure       | 🧠 LLM Security |
-| 🔍 OSINT            | 🔒 Authentication    | ☁️ IAM         | ⚡ AI Agents     |
-| 🧠 Active Directory | 🛡️ GraphQL          | ☸ Kubernetes   | 🔬 AI Research  |
+<div align="center">
+
+| 🔴 Offensive     | 🌐 Application | ☁️ Cloud   | 🤖 AI           |
+| ---------------- | -------------- | ---------- | --------------- |
+| Red Team         | Web Security   | AWS        | AI Security     |
+| Bug Bounty       | API Security   | Azure      | LLM Security    |
+| OSINT            | GraphQL        | Kubernetes | AI Agents       |
+| Active Directory | Authentication | IAM        | Prompt Security |
+
+</div>
 
 ---
 
@@ -299,21 +294,21 @@ Always Learning...
 
 # 🚀 FEATURED PROJECTS
 
-| 🚀 Repository      | Description                 |
-| ------------------ | --------------------------- |
-| 🔍 ReconX          | Advanced Recon Framework    |
-| 🌐 API-Hunter      | API Discovery Toolkit       |
-| ⚔️ RedTeam Toolkit | Offensive Security Scripts  |
-| ☁️ CloudEnum       | Cloud Enumeration Framework |
-| 🤖 AI-Sec          | AI Security Research        |
+| 🚀 Project         | 📝 Description               |
+| ------------------ | ---------------------------- |
+| 🔍 ReconX          | Advanced Recon Framework     |
+| 🌐 API-Hunter      | API Discovery Toolkit        |
+| ⚔️ RedTeam Toolkit | Offensive Security Utilities |
+| ☁️ CloudEnum       | Cloud Enumeration Framework  |
+| 🤖 AI-Sec          | AI Security Research         |
 
 ---
 
 <div align="center">
 
-## ⚡ MISSION STATUS
+## ⚠️ MISSION STATUS
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=MISSION:+ACTIVE;RED+TEAM:+ONLINE;BUG+BOUNTY:+HUNTING;OFFENSIVE+SECURITY:+ENABLED;KEEP+LEARNING+EVERY+DAY"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=MISSION:+ACTIVE;RED+TEAM:+ONLINE;BUG+BOUNTY:+HUNTING;OFFENSIVE+SECURITY:+ENABLED;KEEP+LEARNING+EVERY+DAY"/>
 
 </div>
 
@@ -321,6 +316,7 @@ Always Learning...
 
 <div align="center">
 
-> **"Break • Learn • Secure • Repeat."**
+> **"Break. Learn. Secure. Repeat."**
 
 </div>
+```
