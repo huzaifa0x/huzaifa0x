@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**huzaifa0x/huzaifa0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mohd Huzaifa
 
-Here are some ideas to get you started:
+### 🔴 Red Team Operator • 🐞 Bug Bounty Hunter • 🛡️ Offensive Security Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Red+Team+Operator;Bug+Bounty+Hunter;Offensive+Security+Researcher;AI+Security+Automation;Web+Application+Security;Cloud+Security;Always+Learning..." />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+- 🔴 Red Team Operator
+- 🐞 Bug Bounty Hunter
+- 🛡️ Offensive Security Researcher
+- 🤖 AI Security Automation
+- ☁️ Cloud Security
+- 🌐 API Security
+- 🐧 Linux Enthusiast
+- ❤️ Open Source
+
+---
+
+# ⚡ Current Focus
+
+- Advanced Recon Automation
+- Web Application Security
+- Cloud Security
+- AI Security
+- Active Directory
+- API Security
+
+---
+
+# 🛠️ Languages
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+
+![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go)
+
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+---
+
+# 🛡️ Security Tools
+
+Burp Suite • Nuclei • Httpx • Katana • Subfinder • SQLMap • Dalfox • ffuf • Docker • Linux
+
+---
+
+# 📫 Connect
+
+Coming Soon...
