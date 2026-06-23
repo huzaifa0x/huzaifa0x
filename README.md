@@ -48,33 +48,41 @@
 
 ---
 
-# 🚀 ABOUT ME
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=28&duration=2500&pause=1200&color=FF0000&center=true&vCenter=true&width=900&lines=Offensive+Security+Engineer;Bug+Bounty+Hunter;AI+Security+Researcher;Always+Learning+Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=34&duration=2500&pause=1200&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=Always+Learning+%7C+Always+Building"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🔴_RED_TEAM-OPERATOR-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐞_BUG_BOUNTY-HUNTER-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🛡️_OFFENSIVE_SECURITY-RESEARCHER-FF0000?style=for-the-badge"/>
+<p align="center">
 
-<br>
+<img src="https://img.shields.io/badge/🔴_RED_TEAM-OPERATOR-FF0000?style=for-the-badge&labelColor=2B2B2B"/>&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/🌐_WEB_APPLICATION-SECURITY-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔗_API-SECURITY-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☁️_CLOUD-SECURITY-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🐞_BUG_BOUNTY-HUNTER-000000?style=for-the-badge&labelColor=4A4A4A"/>&nbsp;&nbsp;
 
-<br>
-
-<img src="https://img.shields.io/badge/🧠_ACTIVE_DIRECTORY-SECURITY-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI-SECURITY-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🐧_KALI_LINUX-POWER_USER-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🛡️_OFFENSIVE_SECURITY-RESEARCHER-FF0000?style=for-the-badge&labelColor=2B2B2B"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0A0000,50:FF0000,100:0A0000&text=MISSION%20READY&fontColor=FFFFFF&fontSize=22"/>
+<img src="https://img.shields.io/badge/🌐_WEB_APPLICATION-SECURITY-000000?style=for-the-badge&labelColor=4A4A4A"/>&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/🔗_API-SECURITY-FF0000?style=for-the-badge&labelColor=2B2B2B"/>&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/☁️_CLOUD-SECURITY-000000?style=for-the-badge&labelColor=4A4A4A"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🧠_ACTIVE_DIRECTORY-SECURITY-FF0000?style=for-the-badge&labelColor=2B2B2B"/>&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/🤖_AI-SECURITY-000000?style=for-the-badge&labelColor=4A4A4A"/>&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/🐧_KALI_LINUX-POWER_USER-FF0000?style=for-the-badge&labelColor=2B2B2B"/>
+
+</p>
+
+<br><br>
+
+<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:220000,50:FF0000,100:220000&text=MISSION%20READY&fontColor=FFFFFF&fontSize=34&animation=fadeIn"/>
 
 </div>
 
