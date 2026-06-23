@@ -51,6 +51,16 @@
 
 ---
 
+# 🏆 Trophy Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=huzaifa0x&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
 # ⚡ Current Focus
 
 - Advanced Recon Automation
